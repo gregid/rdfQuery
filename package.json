@@ -1,0 +1,12 @@
+{
+  "name": "jquery-rdfquery",
+  "version": "1.0.0",
+  "description": "jQuery rdfQuery",
+  "keywords": [
+    "jquery"
+  ],
+  "main": "./dist/js/jquery.rdfquery.core-1.0.js",
+  "dependencies": {
+    "jquery": "*"
+  }
+}

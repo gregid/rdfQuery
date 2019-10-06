@@ -1,0 +1,4 @@
+# dist              #include for npm from github to work
+# docs              #include for now
+node_modules
+
